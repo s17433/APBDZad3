@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s17433\\RiderProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\s17433\\Desktop\\dsadsa\\APBDZad3\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s17433\\RiderProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\s17433\\Desktop\\dsadsa\\APBDZad3\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s17433\\RiderProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\s17433\\Desktop\\dsadsa\\APBDZad3\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\s17433\\RiderProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\s17433\\Desktop\\dsadsa\\APBDZad3\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\s17433\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s17433\\RiderProjects\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\s17433\\Desktop\\dsadsa\\APBDZad3\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s17433\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,6 +52,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
